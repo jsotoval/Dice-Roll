@@ -1,5 +1,3 @@
-#Dice roll
-#A dice is rolled from user input, the number the dice lands is placed within a list then counted. Then the list is printed out with the number of times the dice landed on each land 1 - 6.
 import random
 def dice_roll():
     number_of_rolls_by_input = input("Please enter the number of rolls you would like: ")
